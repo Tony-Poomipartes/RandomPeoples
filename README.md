@@ -1,2 +1,17 @@
 # RandomPeoples
-Small project for a technical test to show the ability to connect API and programmatic skills.
+
+## init the app
+
+- npm i
+- set your local variable in the .env
+- npm run dev
+
+## stack
+
+- JavaScript
+- HTML
+- CSS
+
+## note to myself
+
+### my next moves
